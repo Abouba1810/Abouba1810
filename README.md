@@ -23,14 +23,6 @@ I am an **AI Trainee and Adjunct Instructor for IOAI @ RobotsMali** and an **AOA
 | **African Olympiad in Artificial Intelligence (AOAI)** | 🥉 Bronze Medalist (Ranked 17th individually) | May 2026 |
 | **International Olympiad in AI (IOAI)** | Mali Representative / Competitor | Incoming (August 2026) |
 
----
-
-### 🧠 Technical Skills
-
-* **Languages:** Python, JavaScript, HTML, C++
-* **AI & Deep Learning:** PyTorch, Scikit-Learn, EfficientNetV2, LSTMs, Computer Vision, NLP
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Hugging Face, Linux (Ubuntu)
-* **Interests & Hobbies:** Robotics 🤖 • Mathematics 📐 • Chess ♟️ • Football ⚽ • Music 🎵
 
 ---
 
