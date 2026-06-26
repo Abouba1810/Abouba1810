@@ -6,13 +6,13 @@
 # Hi, I'm Aboubacar Diarra 👋
 ### 🚀 AI Research Engineer & Competitive Coder
 
-<p deafult-align="left">
+<p default-align="left">
   <img src="https://img.shields.io/badge/Age-15yo-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Location-Bamako,%20Mali-orange?style=flat-square">
   <img src="https://img.shields.io/badge/Contributions-169%20in%20last%20year-green?style=flat-square">
 </p>
 
-I am an **AI Intern @ RobotsMali** and an **AOAI'26 Bronze Medalist**. After medaling at the African continental level, I am currently preparing for the **International Olympiad in AI (IOAI)**. My work involves advanced training in machine learning, computer vision, and NLP, while actively mentoring the incoming team to prepare them for global competitions.
+I am an **AI Trainee and Adjunct Instructor for IOAI @ RobotsMali** and an **AOAI'26 Bronze Medalist**. After medaling at the African continental level, I am currently preparing for the **International Olympiad in AI (IOAI)**. My work involves advanced training in machine learning, computer vision, and NLP, while actively mentoring the incoming team to prepare them for global competitions.
 
 ---
 
